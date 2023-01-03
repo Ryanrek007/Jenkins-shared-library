@@ -1,7 +1,7 @@
-def name{
+def name(){
     return "Muhammad Ryah Firmansyah"
 }
 
-def asal{
+def asal(){
     return "Pasuruan"
 }
