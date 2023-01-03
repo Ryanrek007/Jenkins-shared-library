@@ -1,4 +1,4 @@
-def call(Strinng command){
+def call(String command){
     sh "./mvnw ${command}"
 
 }
